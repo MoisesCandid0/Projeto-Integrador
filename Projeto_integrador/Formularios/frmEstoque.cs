@@ -117,6 +117,8 @@ namespace Projeto_integrador.Formularios
             SqlDataAdapter exE = new SqlDataAdapter(exEstoque);
             SqlDataAdapter exP = new SqlDataAdapter(exProduto);
 
+            MessageBox.Show("PRODUTO EXCLUIDO");
+
 
             if (DialogResult.Yes == MessageBox.Show("DESEJA MESMO EXCLUIR ESTE PRODUTO", "CONFIRMAÇÃO", MessageBoxButtons.YesNo, MessageBoxIcon.Warning))
             {

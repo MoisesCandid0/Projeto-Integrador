@@ -78,12 +78,6 @@
     <Compile Include="Formularios\danilo\pedido.Designer.cs">
       <DependentUpon>pedido.cs</DependentUpon>
     </Compile>
-    <Compile Include="Formularios\danilo\produtos.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Formularios\danilo\produtos.designer.cs">
-      <DependentUpon>produtos.cs</DependentUpon>
-    </Compile>
     <Compile Include="Formularios\frmCadastroCli.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -115,9 +109,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\danilo\pedido.resx">
       <DependentUpon>pedido.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Formularios\danilo\produtos.resx">
-      <DependentUpon>produtos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\frmCadastroCli.resx">
       <DependentUpon>frmCadastroCli.cs</DependentUpon>

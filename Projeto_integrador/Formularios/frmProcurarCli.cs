@@ -140,7 +140,7 @@ namespace Projeto_integrador.Formularios
                                                                              "uf = @uf," +
                                                                             "cep = @cep," +
                                                                            "data = @data," +
-                                                                           "resp = @resP WHERE id = @id", conexao);
+                                                                           "resp = @resp WHERE id = @id", conexao);
             editar.Parameters.Add("@nome", SqlDbType.VarChar).Value = txtNome.Text;
             editar.Parameters.Add("@cpf", SqlDbType.VarChar).Value = txtCpf.Text;
             editar.Parameters.Add("@telefone", SqlDbType.VarChar).Value = txtTelefone.Text;

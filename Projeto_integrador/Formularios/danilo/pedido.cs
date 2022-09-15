@@ -15,7 +15,7 @@ namespace Projeto_integrador.Formularios
     public partial class pedido : Form
     { 
         AutoCompleteStringCollection produtsColl = new AutoCompleteStringCollection();
-        SqlConnection cn = new SqlConnection("workstation id=stareletronics.mssql.somee.com;packet size=4096;user id=daniloitapira_SQLLogin_1;pwd=di63h4yvxh;data source=stareletronics.mssql.somee.com;persist security info=False;initial catalog=stareletronics");
+        SqlConnection cn = new SqlConnection("workstation id=dbCrud1.mssql.somee.com;packet size=4096;user id=moisescandido_SQLLogin_1;pwd=ljshxejmtf;data source=dbCrud1.mssql.somee.com;persist security info=False;initial catalog=dbCrud1");
         SqlCommand cmd = null;
         static DataTable n = new DataTable();
         static DataSet ds = new DataSet();
@@ -104,11 +104,10 @@ namespace Projeto_integrador.Formularios
             {
                 if(num_pedTextBox.Text != "" && cd_cliTextBox.Text != "")
                 {
-                    string sql = "INSERT INTO  pedido VALUES (@num_ped,@cd_cli,@cd_prod,@data)";
+                    string sql = "INSERT INTO  pedido VALUES (@num_ped,@cd_cli,@data)";
                     cmd = new SqlCommand(sql, cn);
                     cmd.Parameters.Add("@num_ped", SqlDbType.SmallInt).Value = num_pedTextBox.Text;
                     cmd.Parameters.Add("@cd_cli", SqlDbType.Int).Value = cd_cliTextBox.Text;
-                    cmd.Parameters.Add("@cd_prod", SqlDbType.SmallInt).Value = txtCodPrd.Text;
                     cmd.Parameters.Add("@data", SqlDbType.VarChar).Value = txtData.Text;
                     cmd.CommandType = CommandType.Text;
                     cn.Open();
