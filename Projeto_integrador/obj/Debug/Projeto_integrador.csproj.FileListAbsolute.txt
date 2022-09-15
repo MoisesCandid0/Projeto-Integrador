@@ -1,0 +1,101 @@
+C:\Users\moises.cosantos\Documents\Projeto\Projeto-SENAC\Projeto_integrador\bin\Debug\Projeto_integrador.exe.config
+C:\Users\moises.cosantos\Documents\Projeto\Projeto-SENAC\Projeto_integrador\bin\Debug\Projeto_integrador.exe
+C:\Users\moises.cosantos\Documents\Projeto\Projeto-SENAC\Projeto_integrador\bin\Debug\Projeto_integrador.pdb
+C:\Users\moises.cosantos\Documents\Projeto\Projeto-SENAC\Projeto_integrador\obj\Debug\Projeto_integrador.csproj.AssemblyReference.cache
+C:\Users\moises.cosantos\Documents\Projeto\Projeto-SENAC\Projeto_integrador\obj\Debug\Projeto_integrador.csproj.SuggestedBindingRedirects.cache
+C:\Users\moises.cosantos\Documents\Projeto\Projeto-SENAC\Projeto_integrador\obj\Debug\Projeto_integrador.Properties.Resources.resources
+C:\Users\moises.cosantos\Documents\Projeto\Projeto-SENAC\Projeto_integrador\obj\Debug\Projeto_integrador.csproj.GenerateResource.cache
+C:\Users\moises.cosantos\Documents\Projeto\Projeto-SENAC\Projeto_integrador\obj\Debug\Projeto_integrador.csproj.CoreCompileInputs.cache
+C:\Users\moises.cosantos\Documents\Projeto\Projeto-SENAC\Projeto_integrador\obj\Debug\Projeto_integrador.exe
+C:\Users\moises.cosantos\Documents\Projeto\Projeto-SENAC\Projeto_integrador\obj\Debug\Projeto_integrador.pdb
+C:\Users\moises.cosantos\Documents\Projeto\Projeto-SENAC\Projeto_integrador\bin\Debug\stareletronicas.mdf
+C:\Users\moises.cosantos\Documents\Projeto\Projeto-SENAC\Projeto_integrador\bin\Debug\stareletronicas_log.ldf
+C:\Users\moises.cosantos\Documents\Projeto\Projeto-SENAC\Projeto_integrador\obj\Debug\Projeto_integrador.frmCadastro.resources
+C:\Users\moises.cosantos\Documents\Projeto\Projeto-SENAC\Projeto_integrador\obj\Debug\Projeto_integrador.frmProcurarCli.resources
+C:\Users\moise\Downloads\Projeto-SENAC\Projeto_integrador\bin\Debug\Projeto_integrador.exe.config
+C:\Users\moise\Downloads\Projeto-SENAC\Projeto_integrador\bin\Debug\Projeto_integrador.exe
+C:\Users\moise\Downloads\Projeto-SENAC\Projeto_integrador\bin\Debug\Projeto_integrador.pdb
+C:\Users\moise\Downloads\Projeto-SENAC\Projeto_integrador\obj\Debug\Projeto_integrador.csproj.AssemblyReference.cache
+C:\Users\moise\Downloads\Projeto-SENAC\Projeto_integrador\obj\Debug\Projeto_integrador.csproj.SuggestedBindingRedirects.cache
+C:\Users\moise\Downloads\Projeto-SENAC\Projeto_integrador\obj\Debug\Projeto_integrador.Properties.Resources.resources
+C:\Users\moise\Downloads\Projeto-SENAC\Projeto_integrador\obj\Debug\Projeto_integrador.csproj.GenerateResource.cache
+C:\Users\moise\Downloads\Projeto-SENAC\Projeto_integrador\obj\Debug\Projeto_integrador.csproj.CoreCompileInputs.cache
+C:\Users\moise\Downloads\Projeto-SENAC\Projeto_integrador\obj\Debug\Projeto_integrador.exe
+C:\Users\moise\Downloads\Projeto-SENAC\Projeto_integrador\obj\Debug\Projeto_integrador.pdb
+C:\Users\moise\Downloads\Projeto-SENAC\Projeto_integrador\obj\Debug\Projeto_integrador.frmCadastroCli.resources
+C:\Users\moise\Downloads\Projeto-SENAC\Projeto_integrador\obj\Debug\Projeto_integrador.frmProdutos.resources
+C:\Users\moise\Downloads\Projeto-SENAC\Projeto_integrador\obj\Debug\Projeto_integrador.Formularios.frmProcurarCli.resources
+C:\Users\moise\Downloads\Projeto-SENAC\Projeto_integrador\obj\Debug\Projeto_integrador.Formularios.frmTest.resources
+C:\Users\moises.cosantos\Downloads\Projeto-SENAC - Copia\Projeto_integrador\bin\Debug\Projeto_integrador.exe.config
+C:\Users\moises.cosantos\Downloads\Projeto-SENAC - Copia\Projeto_integrador\bin\Debug\Projeto_integrador.exe
+C:\Users\moises.cosantos\Downloads\Projeto-SENAC - Copia\Projeto_integrador\bin\Debug\Projeto_integrador.pdb
+C:\Users\moises.cosantos\Downloads\Projeto-SENAC - Copia\Projeto_integrador\obj\Debug\Projeto_integrador.csproj.AssemblyReference.cache
+C:\Users\moises.cosantos\Downloads\Projeto-SENAC - Copia\Projeto_integrador\obj\Debug\Projeto_integrador.csproj.SuggestedBindingRedirects.cache
+C:\Users\moises.cosantos\Downloads\Projeto-SENAC - Copia\Projeto_integrador\obj\Debug\Projeto_integrador.frmCadastroCli.resources
+C:\Users\moises.cosantos\Downloads\Projeto-SENAC - Copia\Projeto_integrador\obj\Debug\Projeto_integrador.Formularios.frmProcurarCli.resources
+C:\Users\moises.cosantos\Downloads\Projeto-SENAC - Copia\Projeto_integrador\obj\Debug\Projeto_integrador.frmProdutos.resources
+C:\Users\moises.cosantos\Downloads\Projeto-SENAC - Copia\Projeto_integrador\obj\Debug\Projeto_integrador.Properties.Resources.resources
+C:\Users\moises.cosantos\Downloads\Projeto-SENAC - Copia\Projeto_integrador\obj\Debug\Projeto_integrador.csproj.GenerateResource.cache
+C:\Users\moises.cosantos\Downloads\Projeto-SENAC - Copia\Projeto_integrador\obj\Debug\Projeto_integrador.csproj.CoreCompileInputs.cache
+C:\Users\moises.cosantos\Downloads\Projeto-SENAC - Copia\Projeto_integrador\obj\Debug\Projeto_integrador.exe
+C:\Users\moises.cosantos\Downloads\Projeto-SENAC - Copia\Projeto_integrador\obj\Debug\Projeto_integrador.pdb
+C:\Users\moises.cosantos\Downloads\Projeto-SENAC - Copia\Projeto_integrador\obj\Debug\Projeto_integrador.Formularios.frmEstoque.resources
+C:\Users\moise\Downloads\Projeto\Projeto_integrador\bin\Debug\Projeto_integrador.exe.config
+C:\Users\moise\Downloads\Projeto\Projeto_integrador\bin\Debug\Projeto_integrador.exe
+C:\Users\moise\Downloads\Projeto\Projeto_integrador\bin\Debug\Projeto_integrador.pdb
+C:\Users\moise\Downloads\Projeto\Projeto_integrador\obj\Debug\Projeto_integrador.csproj.AssemblyReference.cache
+C:\Users\moise\Downloads\Projeto\Projeto_integrador\obj\Debug\Projeto_integrador.csproj.SuggestedBindingRedirects.cache
+C:\Users\moise\Downloads\Projeto\Projeto_integrador\obj\Debug\Projeto_integrador.frmCadastroCli.resources
+C:\Users\moise\Downloads\Projeto\Projeto_integrador\obj\Debug\Projeto_integrador.Formularios.frmEstoque.resources
+C:\Users\moise\Downloads\Projeto\Projeto_integrador\obj\Debug\Projeto_integrador.Formularios.frmProcurarCli.resources
+C:\Users\moise\Downloads\Projeto\Projeto_integrador\obj\Debug\Projeto_integrador.frmProdutos.resources
+C:\Users\moise\Downloads\Projeto\Projeto_integrador\obj\Debug\Projeto_integrador.Properties.Resources.resources
+C:\Users\moise\Downloads\Projeto\Projeto_integrador\obj\Debug\Projeto_integrador.csproj.GenerateResource.cache
+C:\Users\moise\Downloads\Projeto\Projeto_integrador\obj\Debug\Projeto_integrador.csproj.CoreCompileInputs.cache
+C:\Users\moise\Downloads\Projeto\Projeto_integrador\obj\Debug\Projeto_integrador.exe
+C:\Users\moise\Downloads\Projeto\Projeto_integrador\obj\Debug\Projeto_integrador.pdb
+C:\Users\moises.cosantos\Downloads\projetointegrador\bin\Debug\Projeto_integrador.exe.config
+C:\Users\moises.cosantos\Downloads\projetointegrador\bin\Debug\Projeto_integrador.exe
+C:\Users\moises.cosantos\Downloads\projetointegrador\bin\Debug\Projeto_integrador.pdb
+C:\Users\moises.cosantos\Downloads\projetointegrador\obj\Debug\Projeto_integrador.csproj.AssemblyReference.cache
+C:\Users\moises.cosantos\Downloads\projetointegrador\obj\Debug\Projeto_integrador.csproj.SuggestedBindingRedirects.cache
+C:\Users\moises.cosantos\Downloads\projetointegrador\obj\Debug\Projeto_integrador.frmCadastroCli.resources
+C:\Users\moises.cosantos\Downloads\projetointegrador\obj\Debug\Projeto_integrador.Formularios.frmEstoque.resources
+C:\Users\moises.cosantos\Downloads\projetointegrador\obj\Debug\Projeto_integrador.Formularios.frmProcurarCli.resources
+C:\Users\moises.cosantos\Downloads\projetointegrador\obj\Debug\Projeto_integrador.frmProdutos.resources
+C:\Users\moises.cosantos\Downloads\projetointegrador\obj\Debug\Projeto_integrador.Properties.Resources.resources
+C:\Users\moises.cosantos\Downloads\projetointegrador\obj\Debug\Projeto_integrador.csproj.GenerateResource.cache
+C:\Users\moises.cosantos\Downloads\projetointegrador\obj\Debug\Projeto_integrador.csproj.CoreCompileInputs.cache
+C:\Users\moises.cosantos\Downloads\projetointegrador\obj\Debug\Projeto_integrador.exe
+C:\Users\moises.cosantos\Downloads\projetointegrador\obj\Debug\Projeto_integrador.pdb
+C:\Users\moises.cosantos\Downloads\Projeto-SENAC\Projeto_integrador\bin\Debug\Projeto_integrador.exe.config
+C:\Users\moises.cosantos\Downloads\Projeto-SENAC\Projeto_integrador\bin\Debug\Projeto_integrador.exe
+C:\Users\moises.cosantos\Downloads\Projeto-SENAC\Projeto_integrador\bin\Debug\Projeto_integrador.pdb
+C:\Users\moises.cosantos\Downloads\Projeto-SENAC\Projeto_integrador\obj\Debug\Projeto_integrador.csproj.AssemblyReference.cache
+C:\Users\moises.cosantos\Downloads\Projeto-SENAC\Projeto_integrador\obj\Debug\Projeto_integrador.csproj.SuggestedBindingRedirects.cache
+C:\Users\moises.cosantos\Downloads\Projeto-SENAC\Projeto_integrador\obj\Debug\Projeto_integrador.frmCadastroCli.resources
+C:\Users\moises.cosantos\Downloads\Projeto-SENAC\Projeto_integrador\obj\Debug\Projeto_integrador.Formularios.frmEstoque.resources
+C:\Users\moises.cosantos\Downloads\Projeto-SENAC\Projeto_integrador\obj\Debug\Projeto_integrador.Formularios.frmProcurarCli.resources
+C:\Users\moises.cosantos\Downloads\Projeto-SENAC\Projeto_integrador\obj\Debug\Projeto_integrador.frmProdutos.resources
+C:\Users\moises.cosantos\Downloads\Projeto-SENAC\Projeto_integrador\obj\Debug\Projeto_integrador.Properties.Resources.resources
+C:\Users\moises.cosantos\Downloads\Projeto-SENAC\Projeto_integrador\obj\Debug\Projeto_integrador.csproj.GenerateResource.cache
+C:\Users\moises.cosantos\Downloads\Projeto-SENAC\Projeto_integrador\obj\Debug\Projeto_integrador.csproj.CoreCompileInputs.cache
+C:\Users\moises.cosantos\Downloads\Projeto-SENAC\Projeto_integrador\obj\Debug\Projeto_integrador.exe
+C:\Users\moises.cosantos\Downloads\Projeto-SENAC\Projeto_integrador\obj\Debug\Projeto_integrador.pdb
+C:\Users\danilo.asantos31\source\repos\Projeto-Integrador\Projeto_integrador\bin\Debug\Projeto_integrador.exe.config
+C:\Users\danilo.asantos31\source\repos\Projeto-Integrador\Projeto_integrador\bin\Debug\Projeto_integrador.exe
+C:\Users\danilo.asantos31\source\repos\Projeto-Integrador\Projeto_integrador\bin\Debug\Projeto_integrador.pdb
+C:\Users\danilo.asantos31\source\repos\Projeto-Integrador\Projeto_integrador\obj\Debug\Projeto_integrador.csproj.AssemblyReference.cache
+C:\Users\danilo.asantos31\source\repos\Projeto-Integrador\Projeto_integrador\obj\Debug\Projeto_integrador.csproj.SuggestedBindingRedirects.cache
+C:\Users\danilo.asantos31\source\repos\Projeto-Integrador\Projeto_integrador\obj\Debug\Projeto_integrador.Form1.resources
+C:\Users\danilo.asantos31\source\repos\Projeto-Integrador\Projeto_integrador\obj\Debug\Projeto_integrador.Formularios.pedido.resources
+C:\Users\danilo.asantos31\source\repos\Projeto-Integrador\Projeto_integrador\obj\Debug\Projeto_integrador.Formularios.produtos.resources
+C:\Users\danilo.asantos31\source\repos\Projeto-Integrador\Projeto_integrador\obj\Debug\Projeto_integrador.frmCadastroCli.resources
+C:\Users\danilo.asantos31\source\repos\Projeto-Integrador\Projeto_integrador\obj\Debug\Projeto_integrador.Formularios.frmEstoque.resources
+C:\Users\danilo.asantos31\source\repos\Projeto-Integrador\Projeto_integrador\obj\Debug\Projeto_integrador.Formularios.frmProcurarCli.resources
+C:\Users\danilo.asantos31\source\repos\Projeto-Integrador\Projeto_integrador\obj\Debug\Projeto_integrador.frmProdutos.resources
+C:\Users\danilo.asantos31\source\repos\Projeto-Integrador\Projeto_integrador\obj\Debug\Projeto_integrador.Properties.Resources.resources
+C:\Users\danilo.asantos31\source\repos\Projeto-Integrador\Projeto_integrador\obj\Debug\Projeto_integrador.csproj.GenerateResource.cache
+C:\Users\danilo.asantos31\source\repos\Projeto-Integrador\Projeto_integrador\obj\Debug\Projeto_integrador.csproj.CoreCompileInputs.cache
+C:\Users\danilo.asantos31\source\repos\Projeto-Integrador\Projeto_integrador\obj\Debug\Projeto_integrador.exe
+C:\Users\danilo.asantos31\source\repos\Projeto-Integrador\Projeto_integrador\obj\Debug\Projeto_integrador.pdb
