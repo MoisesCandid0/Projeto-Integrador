@@ -19,6 +19,7 @@ namespace Projeto_integrador.Formularios
         SqlCommand cmd = null;
         static DataTable n = new DataTable();
         static DataSet ds = new DataSet();
+        int preco, soma, i = 0;
         public pedido(Boolean dark)
         {
             InitializeComponent();
@@ -28,9 +29,15 @@ namespace Projeto_integrador.Formularios
                 ForeColor = Color.FromArgb(246, 247, 248);
             }
         }
-
+        private void somar()
+        {
+            preco = Convert.ToInt32(n.Rows[i][2]);
+            soma = preco + soma;
+            txtTotal.Text = soma.ToString();
+        }
         private void button1_Click(object sender, EventArgs e)
         {
+           
             try
             {
                 if (txtCodPrd.Text != "")
@@ -60,6 +67,9 @@ namespace Projeto_integrador.Formularios
             {
                 cn.Close();
             }
+            
+            somar();
+            i++;
         }
 
         private void pedido_Load(object sender, EventArgs e)
@@ -104,11 +114,12 @@ namespace Projeto_integrador.Formularios
             {
                 if(num_pedTextBox.Text != "" && cd_cliTextBox.Text != "")
                 {
-                    string sql = "INSERT INTO  pedido VALUES (@num_ped,@cd_cli,@data)";
+                    string sql = "INSERT INTO pedido VALUES (@num_ped,@cd_cli,@data,@total)";
                     cmd = new SqlCommand(sql, cn);
                     cmd.Parameters.Add("@num_ped", SqlDbType.SmallInt).Value = num_pedTextBox.Text;
                     cmd.Parameters.Add("@cd_cli", SqlDbType.Int).Value = cd_cliTextBox.Text;
                     cmd.Parameters.Add("@data", SqlDbType.VarChar).Value = txtData.Text;
+                    cmd.Parameters.Add("@total", SqlDbType.Decimal).Value = txtTotal.Text;
                     cmd.CommandType = CommandType.Text;
                     cn.Open();
                     cmd.ExecuteNonQuery();
@@ -159,6 +170,11 @@ namespace Projeto_integrador.Formularios
         private void panel3_Paint(object sender, PaintEventArgs e)
         {
 
+        }
+
+        private void txtTotal_TextChanged(object sender, EventArgs e)
+        {
+           
         }
     }
 }
