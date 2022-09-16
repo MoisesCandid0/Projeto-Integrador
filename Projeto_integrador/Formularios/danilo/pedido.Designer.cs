@@ -242,7 +242,7 @@
             this.txtData.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtData.Location = new System.Drawing.Point(880, 19);
             this.txtData.Name = "txtData";
-            this.txtData.Size = new System.Drawing.Size(163, 31);
+            this.txtData.Size = new System.Drawing.Size(193, 31);
             this.txtData.TabIndex = 11;
             // 
             // txtNomeCli
